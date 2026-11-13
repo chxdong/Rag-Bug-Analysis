@@ -100,7 +100,7 @@
 ```bibtex
 @article{hu2026ragframeworkdefects,
   title   = {RAG框架缺陷特征与修复策略的实证研究},
-  author  = {胡文华 and 陈晓东 and 杨振 and 肖艳 and 马传香},
+  author  = {胡文华 and 陈晓东 and 杨振 and 肖艳 and 向剑文 and 马传香},
   year    = {2026},
   note    = {Manuscript}
 }
